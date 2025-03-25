@@ -1,0 +1,13 @@
+{
+  "name": "ResignBot",
+  "token": "discord_token_here",
+  "join_message": "<:RESIGN:1353859278485852263>",
+  "prefixes": ["r/", "R/"],
+  "activity_message": "Throwing red bricks",
+  "activity_type": "custom",
+  "streaming_url": "",
+  "errors_channel": 738442483591151638,
+  "owners": [302851022790066185],
+  "version": "1.0.0",
+  "last_update": "2025-03-25 00:00:00"
+}
